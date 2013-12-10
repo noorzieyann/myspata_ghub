@@ -1,0 +1,15 @@
+Myspata v1
+http://myspata.narsb.com/myspata_v1
+
+phpmyadmin
+http://myspata.narsb.com/myspata_v1/awannano/
+
+Bootstrap
+https://developers.google.com/chart/
+https://wrapbootstrap.com/themes/admin
+http://themeforest.net/collections/2712342-bootstrap-templates?WT.mc_id=GT-TF-bootstrap-templates
+http://fortawesome.github.com/Font-Awesome/#
+http://twitter.github.com/bootstrap/getting-started.html#examples
+
+810129135112
+12345

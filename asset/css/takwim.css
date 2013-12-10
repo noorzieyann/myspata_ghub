@@ -1,0 +1,40 @@
+/* 
+    Document   : takwim
+    Created on : Jul 21, 2013, 10:16:09 PM
+    Author     : myspata
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.calendar {
+			font-family: Arial; font-size: 12px;
+                        width:100%;
+		}
+		table.calendar {
+			margin: auto; border-collapse: collapse;
+		}
+		.calendar .days td {
+			width: 80px; height: 80px; padding: 4px;
+			border: 1px solid #999;
+			vertical-align: top;
+			background-color: #F2F5F7;
+                        
+		}
+		.calendar .days td:hover {
+			background-color: #FFF;
+		}
+		.calendar .highlight {
+			font-weight: bold; color: #00F;
+		}
+                .ui-widget-header{
+                    
+                     background: none repeat scroll 0 0 #DDDDDD;
+                     border: 1px solid #999;
+                     color: #222222;
+                     font-weight: bold;
+                     text-align: center;
+                }
+                
+                .day_num{
+                    float:right;
+                }

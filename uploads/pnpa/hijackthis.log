@@ -1,0 +1,81 @@
+Logfile of Trend Micro HijackThis v2.0.5
+Scan saved at 1:47:17 PM, on 27/10/2013
+Platform: Windows 7 SP1 (WinNT 6.00.3505)
+MSIE: Internet Explorer v10.0 (10.00.9200.16611)
+
+FIREFOX: 24.0 (en-US)
+Boot mode: Normal
+
+Running processes:
+C:\Windows\system32\taskhost.exe
+C:\Windows\system32\Dwm.exe
+C:\Windows\system32\taskeng.exe
+C:\Windows\Explorer.EXE
+C:\Program Files\IObit\Advanced SystemCare 6\Monitor.exe
+C:\Program Files\Core Temp\Core Temp.exe
+C:\Program Files\Unlocker\UnlockerAssistant.exe
+C:\Program Files\AVAST Software\Avast\AvastUI.exe
+C:\Program Files\Celcom Broadband\UIExec.exe
+C:\Windows\System32\hkcmd.exe
+C:\Windows\System32\igfxpers.exe
+C:\Program Files\IObit\Advanced SystemCare 6\ASCTray.exe
+C:\Program Files\IObit\Advanced SystemCare 6\Suo10_SmartRAM.exe
+C:\Windows\system32\SearchFilterHost.exe
+C:\Users\Auniverse\Downloads\HijackThis.exe
+
+R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = about:Tabs
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = http://go.microsoft.com/fwlink/?LinkId=69157
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Search_URL = http://go.microsoft.com/fwlink/?LinkId=54896
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
+O2 - BHO: Speed - {48A789BF-F6D6-4930-9C8B-77855A63EDE1} - C:\PROGRA~1\SECURE~1\IE\SPEEDD~1.DLL
+O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:\Program Files\Java\jre7\bin\ssv.dll
+O2 - BHO: avast! Online Security - {8E5E2654-AD2D-48bf-AC2D-D17F00898D06} - C:\Program Files\AVAST Software\Avast\aswWebRepIE.dll
+O2 - BHO: SkypeIEPluginBHO - {AE805869-2E5C-4ED4-8F7B-F1F7851A4497} - C:\Program Files\Skype\Toolbars\Internet Explorer\skypeieplugin.dll
+O2 - BHO: URLRedirectionBHO - {B4F3A835-0E21-4959-BA22-42B3008E02FF} - C:\PROGRA~1\MIF5BA~1\Office14\URLREDIR.DLL
+O2 - BHO: Advanced SystemCare Browser Protection - {BA0C978D-D909-49B6-AFE2-8BDE245DC7E6} - C:\PROGRA~1\IObit\ADVANC~1\BROWER~1\ASCPLU~1.DLL
+O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files\Java\jre7\bin\jp2ssv.dll
+O3 - Toolbar: (no name) - {ae07101b-46d4-4a98-af68-0333ea26e113} - (no file)
+O3 - Toolbar: avast! Online Security - {8E5E2654-AD2D-48bf-AC2D-D17F00898D06} - C:\Program Files\AVAST Software\Avast\aswWebRepIE.dll
+O4 - HKLM\..\Run: [UnlockerAssistant] "C:\Program Files\Unlocker\UnlockerAssistant.exe"
+O4 - HKLM\..\Run: [avast] "C:\Program Files\AVAST Software\Avast\avastUI.exe" /nogui
+O4 - HKLM\..\Run: [UIExec] "C:\Program Files\Celcom Broadband\UIExec.exe"
+O4 - HKLM\..\Run: [Adobe ARM] "C:\Program Files\Common Files\Adobe\ARM\1.0\AdobeARM.exe"
+O4 - HKLM\..\Run: [IgfxTray] C:\Windows\system32\igfxtray.exe
+O4 - HKLM\..\Run: [HotKeysCmds] C:\Windows\system32\hkcmd.exe
+O4 - HKLM\..\Run: [Persistence] C:\Windows\system32\igfxpers.exe
+O4 - HKLM\..\Run: [IObit Malware Fighter] "C:\Program Files\IObit\IObit Malware Fighter\IMF.exe" /autostart
+O4 - HKCU\..\Run: [Advanced SystemCare 6] "C:\Program Files\IObit\Advanced SystemCare 6\ASCTray.exe" /AutoStart
+O4 - HKCU\..\Run: [SmartRAM] "C:\Program Files\IObit\Advanced SystemCare 6\Suo10_SmartRAM.exe" /m
+O4 - HKUS\S-1-5-18\..\RunOnce: [SPReview] "C:\Windows\System32\SPReview\SPReview.exe" /sp:1 /errorfwlink:"http://go.microsoft.com/fwlink/?LinkID=122915" /build:7601 (User 'SYSTEM')
+O4 - HKUS\.DEFAULT\..\RunOnce: [SPReview] "C:\Windows\System32\SPReview\SPReview.exe" /sp:1 /errorfwlink:"http://go.microsoft.com/fwlink/?LinkID=122915" /build:7601 (User 'Default user')
+O4 - Startup: XAMPP Control Panel.lnk = C:\xampp\xampp-control.exe
+O9 - Extra button: Send to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files\Microsoft Office\Office14\ONBttnIE.dll
+O9 - Extra 'Tools' menuitem: Se&nd to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\Program Files\Microsoft Office\Office14\ONBttnIE.dll
+O9 - Extra button: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files\Microsoft Office\Office14\ONBttnIELinkedNotes.dll
+O9 - Extra 'Tools' menuitem: OneNote Lin&ked Notes - {789FE86F-6FC4-46A1-9849-EDE0DB0C95CA} - C:\Program Files\Microsoft Office\Office14\ONBttnIELinkedNotes.dll
+O9 - Extra button: Skype Click to Call - {898EA8C8-E7FF-479B-8935-AEC46303B9E5} - C:\Program Files\Skype\Toolbars\Internet Explorer\skypeieplugin.dll
+O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
+O18 - Protocol: linkscanner - (no CLSID) - (no file)
+O18 - Protocol: skype-ie-addon-data - {91774881-D725-4E58-B298-07617B9B86A8} - C:\Program Files\Skype\Toolbars\Internet Explorer\skypeieplugin.dll
+O18 - Protocol: skype4com - {FFC8B962-9B40-4DFF-9458-1830C7DD7F5D} - C:\PROGRA~1\COMMON~1\Skype\SKYPE4~1.DLL
+O18 - Filter hijack: text/xml - {807573E5-5146-11D5-A672-00B0D022E945} - C:\Program Files\Common Files\Microsoft Shared\OFFICE14\MSOXMLMF.DLL
+O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Systems Incorporated - C:\Program Files\Common Files\Adobe\ARM\1.0\armsvc.exe
+O23 - Service: Adobe Flash Player Update Service (AdobeFlashPlayerUpdateSvc) - Adobe Systems Incorporated - C:\Windows\system32\Macromed\Flash\FlashPlayerUpdateService.exe
+O23 - Service: Advanced SystemCare Service 6 (AdvancedSystemCareService6) - IObit - C:\Program Files\IObit\Advanced SystemCare 6\ASCService.exe
+O23 - Service: Apache2.4 - Apache Software Foundation - C:\xampp\apache\bin\httpd.exe
+O23 - Service: avast! Antivirus - AVAST Software - C:\Program Files\AVAST Software\Avast\AvastSvc.exe
+O23 - Service: Google Update Service (gupdate) (gupdate) - Google Inc. - C:\Program Files\Google\Update\GoogleUpdate.exe
+O23 - Service: Google Update Service (gupdatem) (gupdatem) - Google Inc. - C:\Program Files\Google\Update\GoogleUpdate.exe
+O23 - Service: IMF Service (IMFservice) - IObit - C:\Program Files\IObit\IObit Malware Fighter\IMFsrv.exe
+O23 - Service: Mozilla Maintenance Service (MozillaMaintenance) - Mozilla Foundation - C:\Program Files\Mozilla Maintenance Service\maintenanceservice.exe
+O23 - Service: mysql - Unknown owner - C:\xampp\mysql\bin\mysqld.exe
+O23 - Service: SecureUpdate (SecureUpdateSvc) - Unknown owner - C:\Program Files\Secure Speed Dial\IE\SecureUpdate.exe
+O23 - Service: Skype C2C Service - Skype Technologies S.A. - C:\ProgramData\Skype\Toolbars\Skype C2C Service\c2c_service.exe
+O23 - Service: Skype Updater (SkypeUpdate) - Skype Technologies - C:\Program Files\Skype\Updater\Updater.exe
+O23 - Service: TeamViewer 8 (TeamViewer8) - TeamViewer GmbH - C:\Program Files\TeamViewer\Version8\TeamViewer_Service.exe
+O23 - Service: UI Assistant Service - Unknown owner - C:\Program Files\Celcom Broadband\AssistantServices.exe
+
+--
+End of file - 6999 bytes
