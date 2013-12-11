@@ -326,11 +326,11 @@ class Salinplan_model extends CI_Model {
                       'nodpa' => $this->input->post('nodpa') 
 				);
         
-		if($typeplan=='pnpa')
-		{
-			$this->db->where('pnpa_id', $this->input->post('edit'));
-			$sumber = $this->db->update('tbl_pnpa', $data);
-		}
+		//if($typeplan=='pnpa')
+		///{
+			$this->db->where($typeplan.'_id', $this->input->post('edit'));
+			$sumber = $this->db->update('tbl_'.$typeplan, $data);
+		//}
 		
 		if($sumber)
         {
@@ -349,5 +349,6 @@ class Salinplan_model extends CI_Model {
 		
 		
 	}
-	}
+	//end of salinplan
+}
 ?>
